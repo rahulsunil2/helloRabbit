@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using RabbitMQ.Client;
 
 namespace ExploreCalifornia.WebApp
 {
@@ -14,6 +15,17 @@ namespace ExploreCalifornia.WebApp
     {
         public static void Main(string[] args)
         {
+            var factory = new ConnectionFactory();
+            factory.Uri = new Uri("amqp://guest:guest@localhost:5672");
+
+            var connection = factory.CreateConnection();
+            var channel = connection.CreateModel();
+
+            channel.ExchangeDeclare("webappExchange", ExchangeType.Direct, true);
+
+            channel.Close();
+            connection.Close();
+
             CreateWebHostBuilder(args).Build().Run();
         }
 

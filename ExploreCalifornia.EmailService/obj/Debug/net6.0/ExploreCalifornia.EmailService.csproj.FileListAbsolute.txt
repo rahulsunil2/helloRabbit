@@ -1,0 +1,17 @@
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.csproj.AssemblyReference.cache
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.AssemblyInfoInputs.cache
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.AssemblyInfo.cs
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.csproj.CoreCompileInputs.cache
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/bin/Debug/net6.0/ExploreCalifornia.EmailService
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/bin/Debug/net6.0/ExploreCalifornia.EmailService.deps.json
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/bin/Debug/net6.0/ExploreCalifornia.EmailService.runtimeconfig.json
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/bin/Debug/net6.0/ExploreCalifornia.EmailService.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/bin/Debug/net6.0/ref/ExploreCalifornia.EmailService.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/bin/Debug/net6.0/ExploreCalifornia.EmailService.pdb
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.csproj.CopyComplete
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ref/ExploreCalifornia.EmailService.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.pdb
+/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/obj/Debug/net6.0/ExploreCalifornia.EmailService.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekMlDllLCTpoqUxT4UHdy6LOsAeKWH+kClmWzNtPBFaWhe+mVd/sw0G73Vd51hemC+vX1EgnF+SIYL6Do+ls4w==",
+  "success": true,
+  "projectFilePath": "/home/azureuser/helloRabbit/ExploreCalifornia.EmailService/ExploreCalifornia.EmailService.csproj",
+  "expectedPackageFiles": [
+    "/home/azureuser/.nuget/packages/rabbitmq.client/5.1.2/rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
