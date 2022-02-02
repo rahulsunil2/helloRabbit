@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivvECfAh96se4CHTSRQ0utfbb5VfJWcg7bFCUzv0HEEaHmTFruqdwMV4bH4OzjpEuw+QXtiZkIbJApXHmEiABQ==",
+  "success": true,
+  "projectFilePath": "/home/azureuser/helloRabbit/helloRabbitChat/helloRabbitChat.csproj",
+  "expectedPackageFiles": [
+    "/home/azureuser/.nuget/packages/rabbitmq.client/5.1.2/rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

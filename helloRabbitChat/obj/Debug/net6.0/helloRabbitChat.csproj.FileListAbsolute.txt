@@ -1,0 +1,17 @@
+/home/azureuser/helloRabbit/helloRabbitChat/bin/Debug/net6.0/helloRabbitChat
+/home/azureuser/helloRabbit/helloRabbitChat/bin/Debug/net6.0/helloRabbitChat.deps.json
+/home/azureuser/helloRabbit/helloRabbitChat/bin/Debug/net6.0/helloRabbitChat.runtimeconfig.json
+/home/azureuser/helloRabbit/helloRabbitChat/bin/Debug/net6.0/helloRabbitChat.dll
+/home/azureuser/helloRabbit/helloRabbitChat/bin/Debug/net6.0/ref/helloRabbitChat.dll
+/home/azureuser/helloRabbit/helloRabbitChat/bin/Debug/net6.0/helloRabbitChat.pdb
+/home/azureuser/helloRabbit/helloRabbitChat/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.csproj.AssemblyReference.cache
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.AssemblyInfoInputs.cache
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.AssemblyInfo.cs
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.csproj.CoreCompileInputs.cache
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.csproj.CopyComplete
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.dll
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/ref/helloRabbitChat.dll
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.pdb
+/home/azureuser/helloRabbit/helloRabbitChat/obj/Debug/net6.0/helloRabbitChat.genruntimeconfig.cache

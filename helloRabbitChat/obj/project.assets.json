@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "RabbitMQ.Client/5.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RabbitMQ.Client/5.1.2": {
+      "sha512": "Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
+      "type": "package",
+      "path": "rabbitmq.client/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net451/RabbitMQ.Client.dll",
+        "lib/net451/RabbitMQ.Client.xml",
+        "lib/netstandard1.5/RabbitMQ.Client.dll",
+        "lib/netstandard1.5/RabbitMQ.Client.xml",
+        "lib/netstandard2.0/RabbitMQ.Client.dll",
+        "lib/netstandard2.0/RabbitMQ.Client.xml",
+        "rabbitmq.client.5.1.2.nupkg.sha512",
+        "rabbitmq.client.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "RabbitMQ.Client >= 5.1.2"
+    ]
+  },
+  "packageFolders": {
+    "/home/azureuser/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/azureuser/helloRabbit/helloRabbitChat/helloRabbitChat.csproj",
+      "projectName": "helloRabbitChat",
+      "projectPath": "/home/azureuser/helloRabbit/helloRabbitChat/helloRabbitChat.csproj",
+      "packagesPath": "/home/azureuser/.nuget/packages/",
+      "outputPath": "/home/azureuser/helloRabbit/helloRabbitChat/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/azureuser/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "RabbitMQ.Client": {
+            "target": "Package",
+            "version": "[5.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
