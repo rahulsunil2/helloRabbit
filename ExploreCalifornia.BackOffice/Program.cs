@@ -20,7 +20,7 @@ namespace ExploreCalifornia.BackOffice
             var consumer = new EventingBasicConsumer(channel);
             consumer.Received += (sender, eventArgs) => {
                 var msg = System.Text.Encoding.UTF8.GetString(eventArgs.Body);
-                Console.WriteLine($"{eventArgs.RoutingKey} : {msg}");
+                Console.WriteLine($"{eventArgs.RoutingKey}: {msg}");
             };
 
             channel.BasicConsume("backOfficeQueue", true, consumer);

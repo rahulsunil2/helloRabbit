@@ -3,3 +3,15 @@
 /home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
 /home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.AssemblyInfo.cs
 /home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/bin/Debug/net6.0/ExploreCalifornia.BackOffice
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/bin/Debug/net6.0/ExploreCalifornia.BackOffice.deps.json
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/bin/Debug/net6.0/ExploreCalifornia.BackOffice.runtimeconfig.json
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/bin/Debug/net6.0/ExploreCalifornia.BackOffice.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/bin/Debug/net6.0/ref/ExploreCalifornia.BackOffice.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/bin/Debug/net6.0/ExploreCalifornia.BackOffice.pdb
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.csproj.CopyComplete
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ref/ExploreCalifornia.BackOffice.dll
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.pdb
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.genruntimeconfig.cache
