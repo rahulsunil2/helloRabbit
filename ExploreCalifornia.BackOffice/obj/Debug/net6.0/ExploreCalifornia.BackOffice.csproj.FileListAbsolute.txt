@@ -1,0 +1,5 @@
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.csproj.AssemblyReference.cache
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.AssemblyInfo.cs
+/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/obj/Debug/net6.0/ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache

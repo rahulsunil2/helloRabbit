@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ListMz+UpEJpW4EcJgXi+9JBtimy+b0ms8Sc9Pkmw+RGv6Iq3bd8CFzkehFnEFqH++XUWYoNVDmh1ajmmJOSFg==",
+  "success": true,
+  "projectFilePath": "/home/azureuser/helloRabbit/ExploreCalifornia.BackOffice/ExploreCalifornia.BackOffice.csproj",
+  "expectedPackageFiles": [
+    "/home/azureuser/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/azureuser/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
