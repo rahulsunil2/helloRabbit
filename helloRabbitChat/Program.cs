@@ -7,18 +7,21 @@ namespace HelloRabbitChat
     class Program
     {   
         static void Main(string[] args){
+            Console.Write("Enter the Chat Session Name: ");
+            var chatRoom = Console.ReadLine();
+
             var factory = new ConnectionFactory();
             factory.Uri = new Uri("amqp://guest:guest@localhost:5672");
 
             var connection = factory.CreateConnection();
             var channel = connection.CreateModel();
 
-            var exchangeName = "chat";
+            var exchangeName = "chatRoom";
             var queueName = Guid.NewGuid().ToString();
 
-            channel.ExchangeDeclare(exchangeName, ExchangeType.Fanout);
+            channel.ExchangeDeclare(exchangeName, ExchangeType.Topic);
             channel.QueueDeclare(queueName, true, true, true);
-            channel.QueueBind(queueName, exchangeName, "");
+            channel.QueueBind(queueName, exchangeName, chatRoom);
 
             var consumer = new EventingBasicConsumer(channel);
             consumer.Received += (sender, eventArgs) => {
@@ -31,7 +34,7 @@ namespace HelloRabbitChat
             var input = Console.ReadLine();
             while (input != ""){
                 var bytes = System.Text.Encoding.UTF8.GetBytes(input);
-                channel.BasicPublish(exchangeName, "", null, bytes);
+                channel.BasicPublish(exchangeName, chatRoom, null, bytes);
                 input = Console.ReadLine();
             }
 
